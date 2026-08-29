@@ -74,4 +74,4 @@ All transformers were fine-tuned using the following hyperparameters, optimized 
 *Note: The Final Ensemble achieved the highest Macro F1 score of the study (0.55), proving the effectiveness of combining a balanced transformer with a highly-sensitive transformer for imbalanced text classification.*
 
 ## Deployment
-The final weights and tokenizers for the BERT and RoBERTa models have been serialized and exported to the `/deployment_models/` directory for integration into the production inference pipeline.
+https://huggingface.co/spaces/SrothJr/lyrics-genre-predictor
